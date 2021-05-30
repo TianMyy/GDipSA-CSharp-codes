@@ -15,5 +15,3 @@ This project includes C# basic concept deployment examples for different variabl
 ### Technologies
 Project is created with:
 * Visual Studio: 2019(community edition)
-
-### Features
